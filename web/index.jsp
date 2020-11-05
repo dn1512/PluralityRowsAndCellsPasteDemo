@@ -11,19 +11,9 @@
     <title>$Title$</title>
     <script type="text/javascript" src="assets/uploadify/jquery.js"></script>
     <script type="text/javascript" src="assets/jquery-easyui-1.4.4/jquery.easyui.min.js"></script>
-    <%--<script src="assets/easy-ui/easyui-lang-zh_CN.js"></script>--%>
+
     <script type="text/javascript" src="assets/js/addPasteEventListener.js"></script>
-    <%--<script type="text/javascript" src="assets/js/jquery-form.js"></script>--%>
-    <%--<script type="text/javascript" src="assets/js/fuelux/fuelux.wizard.min.js"></script>--%>
-    <%--<script type="text/javascript" src="assets/js/fuelux/fuelux.wizard.min.js"></script>--%>
-    <%--<script type="text/javascript" src="assets/js/jquery.validate.min.js"></script>--%>
-    <%--<script type="text/javascript" src="assets/bootstrap3-dialog/js/bootstrap-dialog.min.js"></script>--%>
-    <%--<script type="text/javascript" src="assets/bootstrap3-dialog/js/amms-dialog.js"></script>--%>
-    <%--<script type="text/javascript" src="assets/custom/js/common.js"></script>--%>
-    <%--<script type="text/javascript" src="assets/bootstrapValidator/bootstrapValidator.min.js"></script>--%>
-    <%--<script type="text/javascript" src="assets/js/sign/BJCAWebSignCom.CSAIR.js"></script>--%>
-    <%--<script type="text/javascript" src="assets/js/sign/jquery.md5.js"></script>--%>
-    <%--<script type="text/javascript" src="assets/bootstrap-datetimepicker-2.3.0/js/bootstrap-datetimepicker.js">--%>
+
     <link rel="stylesheet" type="text/css" href="assets/jquery-easyui-1.4.4/themes/default/easyui.css">
     <link rel="stylesheet" type="text/css" href="assets/jquery-easyui-1.4.4/themes/icon.css">
 

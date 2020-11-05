@@ -7,6 +7,8 @@
  * @param editorIndex    ｜     editors[i]中的i值 目前没用上，未来扩展需要
  * @param field          ｜     editors[i].field 得到的该列的field
  * @param rowIndex       ｜     editor所在的行id 也就是进入编辑状态时的index值
+ *
+ * @user liuTengJun
  */
 
 function addPasteEventListenerToEditor(datagridId,editor,editorIndex,field,rowIndex) {
@@ -52,8 +54,8 @@ function addPasteEventListenerToEditor(datagridId,editor,editorIndex,field,rowIn
         //item对象中类型属于字符串的
         if (item.kind === "string") {
           item.getAsString(function (str) {
-            // console.log(checkHtml(str));
-            // console.log(str);
+            console.log(checkHtml(str));
+            console.log(str);
             if(checkHtml(str)){
               // console.log(str);
               //解析html代码拿出数据
