@@ -1,0 +1,12 @@
+# PluralityRowsAndCellsPasteDemo
+
+## 自述文件
+
+pluralityRowsAndCellsPasteDemo 实现了将excel中复制出来的多行多列数据，粘贴到easyui的datagrid表格中去。
+
+这是一个空的springMvc项目，没有数据库连接等依赖。
+
+除了引用jquery和easyui等资源文件，只有index.jsp和addPasteEventListener.js两个文件
+
+实现代码主要在addPasteEventListener.js中，index.jsp的datagrid表格中的onDblClickRow事件下的代码体现了用法。
+
